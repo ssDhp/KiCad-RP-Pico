@@ -1,3 +1,9 @@
+# Changes
+- Changed pin type of Pin 38 to `Power input` (from `Bidirectional`).
+- Changed pin type of Pin 36 to `Power output` (from `Power input`).
+- Added SMD only and THT only footprints.
+- Deleted extra crystal footprint.
+
 # KiCad-RP-Pico
 A simple repository of files needed to add a 3D footprint of the Raspberry Pi Pico board to KiCad.
 
